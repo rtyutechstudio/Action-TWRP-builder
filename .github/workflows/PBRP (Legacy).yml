@@ -1,4 +1,4 @@
-name: Recovery Build (Legacy)
+name: PBRP (Legacy)
 
 on:
   workflow_dispatch:
